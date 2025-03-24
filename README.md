@@ -5,10 +5,10 @@ This tap contains formulae for Bitwarden-related tools.
 ## How do I install these formulae?
 
 ```sh
-brew install slpixe/brew-bitwarden-secrets/bitwarden-secrets-manager
+brew install slpixe/bitwarden-secrets/bitwarden-secrets-manager
 ```
 
-Or `brew tap slpixe/brew-bitwarden-secrets` and then `brew install bitwarden-secrets-manager`.
+Or `brew tap slpixe/bitwarden-secrets` and then `brew install bitwarden-secrets-manager`.
 
 ## License Notice
 
